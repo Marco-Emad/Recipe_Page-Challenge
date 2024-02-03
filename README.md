@@ -63,3 +63,5 @@ so i had to contain the image inside a div tag and style the div instead with th
 ## Author
 
 - Frontend Mentor - [@Marco-Emad](https://www.frontendmentor.io/profile/Marco-Emad)
+- LinkedIn - [@Marco Emad](https://www.linkedin.com/in/marcoemad/)
+- Discord - [@Marco](marco_emad)
