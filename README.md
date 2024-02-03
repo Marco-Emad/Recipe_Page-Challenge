@@ -23,8 +23,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/recipe-page-component-challenge-ctoL3H0rIG)
-- Live Site URL: [Add live site URL here](https://marco-emad.github.io/Recipe_Page-Challenge/)
+- Solution URL: [Click Here to see my Solution](https://www.frontendmentor.io/solutions/recipe-page-component-challenge-ctoL3H0rIG)
+- Live Site URL: [Click Here to see the Live Site](https://marco-emad.github.io/Recipe_Page-Challenge/)
 
 ## My process
 
@@ -37,7 +37,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### What I learned
 
-I faced some challenges in CSS especially because there are many aspect doesn't work well with some HTML tags for example: img tag if you try to border-radius and add a padding-top the circular of the top edges break and not like the bottom edge,
+I faced some challenges in CSS especially because there are many aspects doesn't work well with some HTML tags for example
+img tag if you try to border-radius and add a padding-top the circular of the top edges break and not like the bottom edge,
 so i had to contain the image inside a div tag and style the div instead with the padding like the snippet provided.
 
 ```html
@@ -61,4 +62,4 @@ so i had to contain the image inside a div tag and style the div instead with th
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Marco-Emad)
+- Frontend Mentor - [@Marco-Emad](https://www.frontendmentor.io/profile/Marco-Emad)
